@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-**Desarrollar una app para poder consultar los discos por título, año o artista. Considerando las coincidencias parciales.
+**Desarrollar una app para poder consultar los discos por título, año o artista. Considerando las coincidencias parciales.**
 
 ### index.html
 
@@ -24,7 +24,7 @@ Contiene solo 2 endpoints
 * Para obtener el contenido de la respuesta se utiliza la propiedad responseText.
 
 ### Instalación
-* Clonar el proyecto con **git clone https://github.com/gsuruguay/ej-discografia-JSON.git
+* Clonar el proyecto con **git clone https://github.com/gsuruguay/ej-discografia-JSON.git**
 * Ejecutar por consola desde la carpeta raiz del proyecto **npm install** para instalar las dependencias(express)*
-* Se accede por **http://localhost:3456/
+* Se accede por **http://localhost:3456/**
 
